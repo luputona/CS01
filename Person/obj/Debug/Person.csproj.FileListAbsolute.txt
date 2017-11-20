@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Person\bin\Debug\Person.exe
+C:\Users\4kigs_09\Documents\CS01\Person\bin\Debug\Person.pdb
+C:\Users\4kigs_09\Documents\CS01\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Person\obj\Debug\Person.exe
+C:\Users\4kigs_09\Documents\CS01\Person\obj\Debug\Person.pdb
+C:\Users\4kigs_09\Documents\CS01\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
