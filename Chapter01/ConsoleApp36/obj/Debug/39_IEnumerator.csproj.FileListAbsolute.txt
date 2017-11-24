@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\obj\Debug\39_IEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\obj\Debug\39_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp36\obj\Debug\ConsoleApp36.pdb

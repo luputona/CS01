@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\obj\Debug\47_ref_copy.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\obj\Debug\47_ref_copy.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

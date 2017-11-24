@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\obj\Debug\32_Sort_object_string.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\obj\Debug\32_Sort_object_string.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\bin\Debug\ConsoleApp54.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\bin\Debug\ConsoleApp54.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\obj\Debug\58_ArrayList_03.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\obj\Debug\58_ArrayList_03.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\obj\Debug\ConsoleApp54.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp54\obj\Debug\ConsoleApp54.pdb

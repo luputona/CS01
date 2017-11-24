@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\bin\Debug\ConsoleApp46.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\bin\Debug\ConsoleApp46.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\obj\Debug\50_enum_01.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\obj\Debug\50_enum_01.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\obj\Debug\ConsoleApp46.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp46\obj\Debug\ConsoleApp46.pdb

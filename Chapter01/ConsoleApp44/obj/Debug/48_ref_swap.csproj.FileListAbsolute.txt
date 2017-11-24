@@ -1,0 +1,5 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp44\bin\Debug\ConsoleApp44.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp44\bin\Debug\ConsoleApp44.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp44\obj\Debug\48_ref_swap.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp44\obj\Debug\ConsoleApp44.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp44\obj\Debug\ConsoleApp44.pdb

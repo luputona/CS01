@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\bin\Debug\ConsoleApp39.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\bin\Debug\ConsoleApp39.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\obj\Debug\42_Interface_cup.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\obj\Debug\42_Interface_cup.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\obj\Debug\ConsoleApp39.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp39\obj\Debug\ConsoleApp39.pdb

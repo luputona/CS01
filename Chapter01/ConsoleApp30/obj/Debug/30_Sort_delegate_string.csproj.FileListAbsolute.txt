@@ -1,0 +1,4 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\30_Sort_delegate_string.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\30_Sort_delegate_string.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\obj\Debug\ConsoleApp22.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\4kigs_09\Documents\CS01\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

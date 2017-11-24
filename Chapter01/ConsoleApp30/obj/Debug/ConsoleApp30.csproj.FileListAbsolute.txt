@@ -1,0 +1,5 @@
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\4kigs_09\Documents\CS01\Chapter01\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
